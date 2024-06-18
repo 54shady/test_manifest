@@ -9,5 +9,6 @@
 		sync-j="8" />
 
 	<project path="androidthings" name="androidthings"/>
+	<project path="test_manifest" name="tt"/>
 
 </manifest>
