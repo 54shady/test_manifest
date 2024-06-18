@@ -3,7 +3,7 @@
 
 	<remote  name="origin"
 		fetch="."
-		review="https://github.com/54shady/" />
+		review="git@github.com:54shady/" />
 	<default revision="master"
 		remote="origin"
 		sync-j="8" />
